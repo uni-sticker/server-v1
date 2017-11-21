@@ -1,10 +1,10 @@
 [
   { "name": "aep-default", "title": "貓貓",
-    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/default/icon.png" },
+    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/aep-default/icon.png" },
   { "name": "aep-mario", "title": "瑪莉兄弟",
-    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/mario/icon.png" },
+    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/aep-mario/icon.png" },
   { "name": "aep-kanahei", "title": "兔兔",
-   "src": "https://uni-sticker.github.io/server-v1/v1/stickers/kanahei/icon.png" },
+   "src": "https://uni-sticker.github.io/server-v1/v1/stickers/aep-kanahei/icon.png" },
   { "name": "aep-cat", "title": "貓貓",
-    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/cat/icon.png" }
+    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/aep-cat/icon.png" }
 ]
