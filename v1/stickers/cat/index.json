@@ -16,7 +16,7 @@
   "src": "https://uni-sticker.github.io/server-v1/v1/stickers/cat/8.png" },
 { "container": "cat", "filename": "9.png", "metadata": {"height": 131, "width": 131},
   "src": "https://uni-sticker.github.io/server-v1/v1/stickers/cat/9.png" },
-{ "container": "cat", "filename": "10.gif",
+{ "container": "cat", "filename": "10.gif", "metadata": {"height": 131, "width": 131},
   "src": "https://uni-sticker.github.io/server-v1/v1/stickers/cat/10.gif" },
-{ "container": "cat", "filename": "11.gif",
+{ "container": "cat", "filename": "11.gif", "metadata": {"height": 131, "width": 131},
   "src": "https://uni-sticker.github.io/server-v1/v1/stickers/cat/11.gif" }]
