@@ -1,10 +1,10 @@
 [
   { "name": "default", "title": "貓貓",
-    "src": "http://sticker-01.office.openfind.com.tw/v1/stickers/default/icon.png" },
+    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/default/icon.png" },
   { "name": "mario", "title": "瑪莉兄弟",
-    "src": "http://sticker-01.office.openfind.com.tw/v1/stickers/mario/icon.png" },
+    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/mario/icon.png" },
   { "name": "kanahei", "title": "兔兔",
-   "src": "http://sticker-01.office.openfind.com.tw/v1/stickers/kanahei/icon.png" },
+   "src": "https://uni-sticker.github.io/server-v1/v1/stickers/kanahei/icon.png" },
   { "name": "cat", "title": "貓貓",
-    "src": "http://sticker-01.office.openfind.com.tw/v1/stickers/cat/icon.png" }
+    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/cat/icon.png" }
 ]
