@@ -1,6 +1,6 @@
 [
-  { "name": "aep-line", "title": "LINE",
-    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/aep-line/01.png" },
+  { "name": "aep-default", "title": "LINE",
+    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/aep-default/01.png" },
   { "name": "aep-kanahei", "title": "兔兔",
    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/aep-kanahei/icon.png" }
 ]
