@@ -3,6 +3,8 @@
     "src": "https://uni-sticker.github.io/server-v1/v1/stickers/aep-default/01.png" },
   { "name": "aep-kanahei", "title": "卡娜赫拉",
    "src": "https://uni-sticker.github.io/server-v1/v1/stickers/aep-kanahei/icon.png" },
+  { "name": "aep-misc", "title": "許願池上傳",
+   "src": "https://uni-sticker.github.io/server-v1/v1/stickers/aep-misc/icon.jpg" },
   { "name": "aep-upload", "title": "許願池",
     "src": "https://uni-sticker.github.io/server-v1/v1/stickers/aep-upload/icon.png" }
 ]
